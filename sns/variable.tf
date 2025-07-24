@@ -2,6 +2,7 @@ variable "topic_name" {
   type = string
 }
 
-variable "tags" {
-  type = map(string)
+variable "email_address" {
+  type = list(string)
 }
+
