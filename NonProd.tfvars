@@ -5,7 +5,7 @@ enable_s3_logs                = "ENABLED"
 enable_kubernetes_audit_logs  = "DISABLED"
 enable_malware_protection_ebs = "ENABLED"
 topic_name                    = "Guardduty-alert-topic"
-email_address                 = "mohit.kumar@mygurukulam.com"
+email_address                 = "mohit.kumar@gmail.com"
 tags = {
   Name = "GuardDuty"
 
